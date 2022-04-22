@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 강사님 깃허브: https://github.com/sinaboro/Ezen01
 
+
+=======
+>>>>>>> a84f3191324750278aa8c7a91b76a99776d5795f
 1. git init
 
 2. git config --global user.email "yumkl123@gmail.com"
